@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SARTHAK383
-- 👀 I’m interested in web development, cybersecurity and other fields of computer science engineering 
-- 🌱 I’m currently learning react js and its working with the latest frameworks
-- 💞️ I’m looking to collaborate on projects regarding my interests
+- 👀 I’m interested in web development, cybersecurity and other fields of computer science engineering and development.
+- 🌱 I’m currently learning react js and its working with the latest frameworks.
+- 💞️ I’m looking to collaborate on projects regarding my interests.
 - 📫 you can contact/reach me via my 
 E-mail- s4sarthak2002@gmail.com
 Instagram- s4sarthak2002, 
